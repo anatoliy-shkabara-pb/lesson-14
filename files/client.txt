@@ -1,0 +1,4 @@
+Java Socket тест
+123456
+qwerty
+йцукен
